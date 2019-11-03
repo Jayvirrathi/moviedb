@@ -1,5 +1,5 @@
 # moviedb
-Spring Boot Thymeleaf 
+Run Project 
 
 
 git clone link
